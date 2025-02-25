@@ -6,7 +6,7 @@ importScripts('https://www.gstatic.com/firebasejs/7.8.0/firebase-messaging.js');
 
 // Your web app's Firebase configuration
 var firebaseConfig = {
-      apiKey: "AIzaSyCzJFn0wY9pt8V7p3TCqDuVu5iroSvLqvE",
+      apiKey: "",
       authDomain: "nin-development-7d29c.firebaseapp.com",
       projectId: "nin-development-7d29c",
       storageBucket: "nin-development-7d29c.appspot.com",
